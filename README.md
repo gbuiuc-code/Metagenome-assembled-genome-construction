@@ -1,2 +1,2 @@
 # Metagenome-assembled-genome-construction
-Metagenome assembled genome (MAG) are important for functional genomics. However, construction of MAG from raw sh
+Metagenome-assembled genomes (MAGs) are essential for studying microbial diversity, evolution, and functional genomics. However, constructing high-quality MAGs from raw metagenomic sequencing data often requires extensive command-line and bioinformatics expertise, which can be challenging for many researchers. In this repository, I provide a comprehensive, step-by-step workflow with detailed commands for constructing MAGs from raw sequencing files, enabling users to perform assembly, binning, quality assessment, taxonomic classification, and downstream analyses in a reproducible and user-friendly manner.
